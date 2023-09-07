@@ -1,0 +1,15 @@
+
+{
+  "lazyCodeLoading": "requiredComponents",
+  "pages":[
+    "pages/index/index",
+    "pages/chat/chat"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "胜唐AI营养师",
+    "navigationBarTextStyle":"black"
+  }
+  
+}
